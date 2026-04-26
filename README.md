@@ -13,7 +13,7 @@ Example:
 
 ```bash
 python3 .agents/skills/timezone-meeting-planner/scripts/timezone_meeting_planner.py
-bash```
+```bash
 ## What worked well
 The skill is simple, reusable, and demonstrates a clear use of deterministic code. The Python script handles time zone conversion reliably, which is difficult to do consistently with a language model alone.
 
